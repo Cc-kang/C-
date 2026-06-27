@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u8D3A\u7ECD\u5EB7\\Documents\\lianxi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C9733A4-33E3-4A33-933A-EE43E93BFC89}|lianxi\\lianxi.vcxproj|D:\\\u8D3A\u7ECD\u5EB7\\Documents\\lianxi\\lianxi\\lianxi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0C9733A4-33E3-4A33-933A-EE43E93BFC89}|lianxi\\lianxi.vcxproj|solutionrelative:lianxi\\lianxi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lianxi.cpp",
+              "DocumentMoniker": "D:\\\u8D3A\u7ECD\u5EB7\\Documents\\lianxi\\lianxi\\lianxi.cpp",
+              "RelativeDocumentMoniker": "lianxi\\lianxi.cpp",
+              "ToolTip": "D:\\\u8D3A\u7ECD\u5EB7\\Documents\\lianxi\\lianxi\\lianxi.cpp",
+              "RelativeToolTip": "lianxi\\lianxi.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-18T10:16:15.982Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

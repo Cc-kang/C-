@@ -1,0 +1,16 @@
+# VS 缓存配置
+.vs/
+*.suo
+*.vsidx
+*.vcxproj.user
+
+# 编译生成文件
+x64/Debug/
+x64/Release/
+*.obj
+*.ilk
+*.log
+*.pdb
+*.exe
+*.iobj
+*.ipdb
